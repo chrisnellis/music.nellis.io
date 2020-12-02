@@ -1,1 +1,1 @@
-This repo contains the source for [music.nellis.io](https://music.nellis.io), which contains a number of yearly countdowns I created.
+This repo contains the source for [music.nellis.io](https://music.nellis.io), which serves as an archive of my yearly Spotify countdowns.
