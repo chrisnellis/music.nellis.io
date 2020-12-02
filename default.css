@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #4C5748;
+		background: black;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
@@ -291,15 +291,15 @@
 	#header-wrapper
 	{
 		overflow: hidden;
-		background: url(images/pic01.jpg) no-repeat center;
 		background-size: 100% auto;
 	}
 
 	#header
 	{
+		background: black;
 		overflow: hidden;
 		position: relative;
-		padding: 5em 0em;
+		padding: 2em 0em;
 	}
 
 /*********************************************************************************/
@@ -308,9 +308,9 @@
 
 	#logo
 	{
-		position: absolute;
 		top: 2.5em;
 		left: 0;
+		text-align: center;
 	}
 	
 	#logo h1
@@ -318,13 +318,7 @@
 		letter-spacing: 0.10em;
 		font-size: 2.5em;
 		font-weight: 600;
-	}
-	
-	#logo a
-	{
-		text-decoration: none;
-		text-transform: uppercase;
-		color: #FFF;
+		color: white;
 	}
 
 /*********************************************************************************/
@@ -379,8 +373,7 @@
 	#banner
 	{
 		overflow: hidden;
-		padding: 3em 0em 2em 0em;
-		margin-bottom: 5em;
+		padding: 2em;
 		border-top: 1px solid rgba(0,0,0,0.08);
 		border-bottom: 1px solid rgba(0,0,0,0.08);
 		text-align: center;
