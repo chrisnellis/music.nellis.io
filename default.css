@@ -299,7 +299,7 @@
 		background: black;
 		overflow: hidden;
 		position: relative;
-		padding: 2em 0em;
+		padding: 2em 1em;
 	}
 
 /*********************************************************************************/
@@ -391,13 +391,21 @@
 
 	#page-wrapper
 	{
-		overflow: hidden;
-		padding: 5em 0em;
-		background: #FFF;
+		color: white;
+		text-align: center;
 	}
 
 	#page
 	{
+	}
+
+	.countdown-container {
+		padding: 1em;
+	}
+
+	.countdown-container h2{
+		font-size: 2.5em;
+		font-weight: 600;
 	}
 
 /*********************************************************************************/
