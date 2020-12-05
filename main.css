@@ -1,42 +1,37 @@
-body
-{
+body {
     background: black;
     font-family: 'Open Sans', sans-serif;
     color: white;
     text-align: center;
 }
 
-#header
-{
+#header {
     background: black;
     padding: 2em 1em;
     text-align: center;
 }
 
-#title h1
-{
+#title h1 {
     letter-spacing: 0.10em;
     font-size: 3em;
 }
 
-#intro
-{
+#intro {
     padding: 1em;
     text-align: center;
-    color: rgba(255,255,255,0.5);
+    color: rgba(255, 255, 255, 0.5);
 }
 
 .countdown-container {
     padding: 1em;
 }
 
-.countdown-container h2{
+.countdown-container h2 {
     font-size: 2.5em;
     font-weight: 600;
 }
 
 
-.countdown-container a{
+a {
     color: white;
 }
-
